@@ -9,7 +9,7 @@ A simple Arduino sketch which emits ultrasonic pluses in a way which somewhat re
 <li>Randomizes the length of time between a collection of pluses</li>
 </ul>
 
-<h2> Contributiong </h2>
+<h2> Contributing </h2>
 
 If you would like to contribute or feel like there is a feature that should be added please first submit an issue
 
